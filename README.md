@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PedroHsat
-- 👀 I’m interested in Progamação , html, css
-- 🌱 I’m currently learning , Html, css, sou iniciante
+- 👀 Estou interessado em aprender nova coisas da programação! 
+- 🌱  Aprendendo Atualmente, HTML, CSS
 - 💞️ Quero ser  um FullStack e conseguir viver disso
 - 💞️ Meu Instagram: Pedrohsat
 - 📫 Aceito ajuda em codigos, sua ajuda sempre sera bem vind
